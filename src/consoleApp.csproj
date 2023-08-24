@@ -5,6 +5,11 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-consoleApp-2897196c-2d87-43f7-9ec8-005eb68edd32</UserSecretsId>
+    <!-- <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath> -->
+    <!-- <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath> -->
+    <!-- <OutputPath>../out</OutputPath> -->
+    <!-- <PublishSingleFile>True</PublishSingleFile> -->
+    <!-- <DebugType>None</DebugType> -->
   </PropertyGroup>
 
   <ItemGroup>
